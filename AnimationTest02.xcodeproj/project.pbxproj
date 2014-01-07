@@ -21,6 +21,7 @@
 		F8456E0D187AFA370001BECA /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F8456DEF187AFA370001BECA /* UIKit.framework */; };
 		F8456E15187AFA370001BECA /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = F8456E13187AFA370001BECA /* InfoPlist.strings */; };
 		F8456E17187AFA370001BECA /* AnimationTest02Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = F8456E16187AFA370001BECA /* AnimationTest02Tests.m */; };
+		F8456E21187AFA6D0001BECA /* apple.png in Resources */ = {isa = PBXBuildFile; fileRef = F8456E20187AFA6D0001BECA /* apple.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		F8456E12187AFA370001BECA /* AnimationTest02Tests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "AnimationTest02Tests-Info.plist"; sourceTree = "<group>"; };
 		F8456E14187AFA370001BECA /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		F8456E16187AFA370001BECA /* AnimationTest02Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AnimationTest02Tests.m; sourceTree = "<group>"; };
+		F8456E20187AFA6D0001BECA /* apple.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = apple.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +114,7 @@
 		F8456DF1187AFA370001BECA /* AnimationTest02 */ = {
 			isa = PBXGroup;
 			children = (
+				F8456E20187AFA6D0001BECA /* apple.png */,
 				F8456DFA187AFA370001BECA /* AppDelegate.h */,
 				F8456DFB187AFA370001BECA /* AppDelegate.m */,
 				F8456DFD187AFA370001BECA /* Main.storyboard */,
@@ -230,6 +233,7 @@
 			files = (
 				F8456E04187AFA370001BECA /* Images.xcassets in Resources */,
 				F8456DF6187AFA370001BECA /* InfoPlist.strings in Resources */,
+				F8456E21187AFA6D0001BECA /* apple.png in Resources */,
 				F8456DFF187AFA370001BECA /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
